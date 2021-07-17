@@ -25,7 +25,7 @@ A back end application for an e-commerce site using Express.js API and Sequelize
 Enter `npm install` in the terminal to install the necessary dependencies.
    
 ## Usage
-- Enter `source db/schema.sql` in MySQL CLI.
+- Enter `source db/schema.sql` in MySQL CLI to create the database.
 - Enter `npm run seed` to seed the data.
 - Enter `npm start` to start the server.
 - Use Insomnia to test the routes.
