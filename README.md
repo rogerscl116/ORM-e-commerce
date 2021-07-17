@@ -7,13 +7,13 @@
 A back end application for an e-commerce site using Express.js API and Sequelize to interact with a MySQL database.
 
 ### Screenshots
-  ![ORM E-Commerce Back End Screenshot]()
+  ![ORM E-Commerce Back End Screenshot](./assets/images/ORM-e-commerce-GET-category.jpg)
 
 ### Walkthrough Videos
 
-  ![ORM E-Commerce Back End Walkthrough]()
+  ![ORM E-Commerce Back End Walkthrough](./assets/videos/ORM-e-commerce-GET-routes.gif)
 
-  [Click here for link]()
+  [Click here for link](https://drive.google.com/file/d/15SfrYHBA_fLQoM4vDdcu0MeAPIK3Jwit/view)
 
 ## Table of Contents
   * [Installation](#installation)
@@ -25,6 +25,7 @@ A back end application for an e-commerce site using Express.js API and Sequelize
 Enter `npm install` in the terminal to install the necessary dependencies.
    
 ## Usage
+- Enter `source db/schema.sql` in MySQL CLI.
 - Enter `npm run seed` to seed the data.
 - Enter `npm start` to start the server.
 - Use Insomnia to test the routes.
