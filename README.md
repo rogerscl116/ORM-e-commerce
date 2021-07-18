@@ -16,10 +16,10 @@ A back end application for an e-commerce site using Express.js API and Sequelize
 
 ### GET Routes
   ![ORM E-Commerce Back End Walkthrough 1](./assets/videos/ORM-e-commerce-GET-routes.gif)
-  [Click here for link](https://drive.google.com/file/d/15SfrYHBA_fLQoM4vDdcu0MeAPIK3Jwit/view)
+  - [Click here for link](https://drive.google.com/file/d/15SfrYHBA_fLQoM4vDdcu0MeAPIK3Jwit/view)
 ### POST, PUT, DELETE Routes
   ![ORM E-Commerce Back End Walkthrough 2](./assets/videos/ORM-e-commerce-POSTPUTDEL-routes.gif)
-  [Click here for link](https://drive.google.com/file/d/1AgGeQ1edf2raIkZagGAt8I29YKNXbQJF/view)
+  - [Click here for link](https://drive.google.com/file/d/1AgGeQ1edf2raIkZagGAt8I29YKNXbQJF/view)
 
 ## Table of Contents
   * [Installation](#installation)
