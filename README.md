@@ -6,18 +6,18 @@
 ## Description
 A back end application for an e-commerce site using Express.js API and Sequelize to interact with a MySQL database.
 
-### Screenshots
-#### GET Category Route
+## Screenshots
+### GET Category Route
   ![ORM E-Commerce Back End Screenshot 1](./assets/images/ORM-e-commerce-GET-category.jpg)
-#### POST Tag Route
+### POST Tag Route
   ![ORM E-Commerce Back End Screenshot 2](./assets/images/ORM-e-commerce-POST-tag.jpg)
 
-### Walkthrough Videos
+## Walkthrough Videos
 
-#### GET Routes
+### GET Routes
   ![ORM E-Commerce Back End Walkthrough 1](./assets/videos/ORM-e-commerce-GET-routes.gif)
   [Click here for link](https://drive.google.com/file/d/15SfrYHBA_fLQoM4vDdcu0MeAPIK3Jwit/view)
-#### POST, PUT, DELETE Routes
+### POST, PUT, DELETE Routes
   ![ORM E-Commerce Back End Walkthrough 2](./assets/videos/ORM-e-commerce-POSTPUTDEL-routes.gif)
   [Click here for link](https://drive.google.com/file/d/1AgGeQ1edf2raIkZagGAt8I29YKNXbQJF/view)
 
